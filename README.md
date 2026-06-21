@@ -6,7 +6,11 @@ Welcome to the official repository of my personal developer portfolio. Built wit
 
 ## 📸 Portfolio Preview
 
-![Muskan Lalwani Portfolio Preview](assets/screenshot.png)
+### 🌓 Dark Theme (Hero Section)
+![Dark Theme Preview](assets/screenshot_dark.png)
+
+### ☀️ Light Theme (About Section)
+![Light Theme Preview](assets/screenshot_light.png)
 
 ---
 
